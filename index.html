@@ -6,12 +6,12 @@
     <script type="text/javascript">
         $(document).ready(function() {
             $.post('get-iframe-src.php', function(data) {
-                $('#element_id').html(data);
+                $('iframe').attr('src', data);
             });
         });
     </script>
 </head>
 <body>
-    <div id="element_id"></div>
+    <iframe src="" style="width: 1200px; height: 800px;"></iframe>
 </body>
 </html>
