@@ -1,3 +1,3 @@
 <?php
-echo '<iframe src="http://www.flickr.com/" width="1200" height="800"></iframe>';
+echo '<iframe src="https://sustech-sus-chat-34b.hf.space" width="1200" height="800"></iframe>';
 ?>
