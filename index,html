@@ -1,5 +1,5 @@
 <html>
 <body>
-<iframe src="dash_url.php"></iframe>
+<iframe id="iframe" src="iframe_url.php"></iframe>
 </body>
 </html>
